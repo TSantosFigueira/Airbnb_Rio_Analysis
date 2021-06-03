@@ -24,14 +24,15 @@ Through the Anaconda toolkit (https://www.anaconda.com/), I used the Python Libr
 
 2. File Description
 
-You should look at the notebook (.ipynb) file called Airbnb_Rio_Notebook.ipynb for the source code. In the repository, you can also find the datasets used for this analysis. The file listings.csv contains the data we effectively analyze. The file neighbourhoods.geojson has the coordinates for each neighborhood, so it was used in the map.
+You should look at the notebook (.ipynb) file called Airbnb_Rio_Notebook.ipynb for the source code. 
+In the repository, you can also find the datasets used for this analysis. The file listings.csv contains the data we effectively analyze. The file neighbourhoods.geojson has the coordinates for each neighborhood, so it was used in the map.
 
 3. Summary of Results
 
-What is the most popular neighborhood for renting a room?: Ipanema
-What is the most expensive room type?: entire home/apts
-What is the most popular room type? entire home/apts
-What is the most expensive neighborhood to rent a room? Joá is the most expensive neighborhood in Rio. We would expect to pay, on average, 3926.83 per room. Half of the rooms are above the 2277.5 price line; half are below.
+- What is the most popular neighborhood for renting a room?: Ipanema
+- What is the most expensive room type?: entire home/apts
+- What is the most popular room type? entire home/apts
+- What is the most expensive neighborhood to rent a room? Joá is the most expensive neighborhood in Rio. We would expect to pay, on average, 3926.83 per room. Half of the rooms are above the 2277.5 price line; half are below.
 
 The image below shows the map that presents the average price per neighborhood in Rio de Janeiro:
 
