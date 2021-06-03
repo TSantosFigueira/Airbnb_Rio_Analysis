@@ -18,16 +18,17 @@ Also, you can use Nbviewer (https://nbviewer.jupyter.org/) to better visualize t
 3. Summary of Results
 4. Acknowledgments
 
-1. Installations
 
-Through the Anaconda toolkit (https://www.anaconda.com/), I used the Python Libraries: Pandas, Numpy, Matplotlib, and Seaborn.
+### 1. Installations
 
-2. File Description
+Through the [Anaconda toolkit](https://www.anaconda.com/), I used the Python Libraries: Pandas, Numpy, Matplotlib, and Seaborn.
+
+### 2. File Description
 
 You should look at the notebook (.ipynb) file called Airbnb_Rio_Notebook.ipynb for the source code. 
 In the repository, you can also find the datasets used for this analysis. The file listings.csv contains the data we effectively analyze. The file neighbourhoods.geojson has the coordinates for each neighborhood, so it was used in the map.
 
-3. Summary of Results
+### 3. Summary of Results
 
 - What is the most popular neighborhood for renting a room?: Ipanema
 - What is the most expensive room type?: entire home/apts
@@ -39,6 +40,6 @@ The image below shows the map that presents the average price per neighborhood i
 ![alt text](https://github.com/TSantosFigueira/Airbnb_Rio_Analysis/blob/main/price_per_neighborhood.png)
 
 
-4. Acknowledgments
+### 4. Acknowledgments
 
 Spcecial thanks to the team at Udacity that gave me awesome feedback for this project!
