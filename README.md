@@ -10,8 +10,8 @@ I explored the dataset to answer a few questions:
 - The most expensive rooms are located in which neighborhood?
 - What is the expected average price per neighborhood?
 
-You can find an explanation of the results in the following post: https://tsfigueira.medium.com/analyzing-the-airbnb-dataset-of-rio-de-janeiro-e00db78b4370
-Also, you can use Nbviewer (https://nbviewer.jupyter.org/) to better visualize the notebook. A few additional details about the project are below.
+You can find an explanation of the results in this [post](https://tsfigueira.medium.com/analyzing-the-airbnb-dataset-of-rio-de-janeiro-e00db78b4370)
+Also, you can use [Nbviewer](https://nbviewer.jupyter.org/) to better visualize the notebook. A few additional details about the project are below.
 
 1. Installations
 2. File Description
